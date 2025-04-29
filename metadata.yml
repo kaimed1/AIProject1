@@ -1,0 +1,14 @@
+---
+:id: 305659691
+:submitters:
+- :name: Daniel Yowell
+  :email: daniel.j.yowell-1@ou.edu
+- :name: Kaivalya Meduri
+  :email: kaivalya.v.meduri-1@ou.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-02-06 05:42:56.850782000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-02-05 21:42:56.850782000 Z
+:status: processed
+:score: 100.0
